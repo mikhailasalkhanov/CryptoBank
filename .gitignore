@@ -1,4 +1,3 @@
-/CryptoBank/obj/
-/CryptoBank/bin/
-/.idea/
-/CryptoBank/.idea/
+obj/
+bin/
+.idea/
